@@ -1,0 +1,55 @@
+.carousel {
+  margin-top: 100px;
+  margin-left: 5.5em;
+}
+
+.image1 img {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  margin-top: 25px;
+  margin-left: 4em;
+}
+
+.image2 img {
+  display: flex;
+  width: 400px;
+  height: 250px;
+}
+
+.carousel button {
+  display: none;
+}
+
+.card1 {
+  width: 500px;
+  box-shadow: 0px 2px 6px -2px rgb(0 0 0 / 40%);
+}
+
+.card2 {
+  width: 450px;
+  margin-top: -315px;
+  margin-left: 35em;
+  box-shadow: 0px 2px 6px -2px rgb(0 0 0 / 40%);
+}
+
+.card1,
+.card2 p {
+  text-align: center;
+  color: #fa6900;
+  opacity: 90%;
+}
+
+.titulo-topo {
+  position: absolute;
+  margin-left: 215px;
+  margin-top: 50px;
+  color: #fa6900;
+  opacity: 90%;
+  font-size: Arial;
+}
+
+.titulo-topo svg {
+  font-size: 1.5em;
+  margin-top: -5px;
+}

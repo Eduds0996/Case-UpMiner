@@ -1,0 +1,74 @@
+[
+  {
+    "id" : 1,
+    "titulo": "Profissional",
+    "descricao": "",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 2,
+    "titulo": "Reguladores",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a onsulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 3,
+    "titulo": "Sócio Ambiental",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 4,
+    "titulo": "Jurídico",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 5,
+    "titulo": "Listas Restritivas",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 6,
+    "titulo": "Mídia/Internet",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 7,
+    "titulo": "Bens e Imóveis",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 8,
+    "titulo": "Cadastro",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 9,
+    "titulo": "Financeiro",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 10,
+    "titulo": "Financeiro",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 11,
+    "titulo": "Sócio Ambiental",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  },
+  {
+    "id" : 12,
+    "titulo": "Jurídico",
+    "descricao": "O aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A. de capital aberto e limitadas (LTDA) de grande porte.",
+    "valor" :"R$29,99"
+  }
+]

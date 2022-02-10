@@ -1,0 +1,130 @@
+.Header_index {
+  margin-top: 0;
+}
+
+.container img {
+  margin: 0px 690px auto;
+  padding: 0px;
+  width: 378px;
+  height: 200px;
+}
+
+.container {
+  height: 200px;
+}
+
+.header {
+  background-image: linear-gradient(to right, #034f6f, #020202);
+  margin-left: 155px;
+  margin-top: -15px;
+  width: 720px;
+}
+
+.logo img {
+  color: white;
+  margin-left: 25px;
+  height: 100px;
+  width: 100px;
+  display: inline-flex;
+}
+
+.logo {
+  height: 0px;
+  display: flex;
+}
+
+.historico_empresarial {
+  display: flex;
+  margin-top: 32px;
+  color: white;
+  font-size: 20px;
+}
+
+.descricao_header p {
+  color: white;
+  opacity: 75%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.descricao_header {
+  margin-top: 80px;
+  margin-left: -280px;
+  position: relative;
+  height: 0px;
+}
+
+.sabia_mais_header {
+  background-image: linear-gradient(to right, #fa8f41, #ff6800);
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  height: 28px;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 285px;
+}
+
+.preco_header {
+  display: flex;
+  height: 0px;
+  color: white;
+  margin-top: -45px;
+  margin-left: 185px;
+}
+
+.simbolo {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.valor {
+  font-size: 24px;
+}
+
+.social-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 12px;
+  margin: 0 0 0 140px;
+}
+.social-list li {
+  text-align: center;
+  width: 9%;
+  margin: 2em 0;
+  background-color: #f9f9f9;
+  opacity: 200%;
+  border: 3px solid #f6f6f6;
+  font-size: 12px;
+}
+
+.social-list svg {
+  font-size: 2.5em;
+  cursor: pointer;
+  color: #616161;
+}
+
+.selection {
+  display: flex;
+  margin-left: 12em;
+  margin-bottom: 2em;
+}
+
+.selection p {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.selection option {
+  color: #585757;
+  box-shadow: 0px 2px 6px -2px rgb(0 0 0 / 40%);
+}
+
+.selection select {
+  margin-left: 25px;
+  height: 30px;
+  width: 150px;
+  margin-top: -8px;
+}

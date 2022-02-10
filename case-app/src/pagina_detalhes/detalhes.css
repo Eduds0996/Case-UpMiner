@@ -1,0 +1,142 @@
+.Header_detalhes {
+  margin-top: 0;
+}
+
+.container-detalhes img {
+  margin: 0px 680px auto;
+  padding: 0px;
+  width: 378px;
+  height: 200px;
+}
+
+.container-detalhes {
+  height: 200px;
+}
+
+.header-detalhes {
+  background-image: linear-gradient(to right, #d9d9d9, #ffffff);
+  margin-left: 165px;
+  margin-top: -15px;
+  width: 690px;
+}
+
+.logo-detalhes img {
+  color: white;
+  margin-left: 15px;
+  height: 100px;
+  width: 100px;
+  display: inline-flex;
+}
+
+.logo-detalhes {
+  height: 0px;
+  display: flex;
+}
+
+.historico-empresarial-detalhes {
+  display: flex;
+  margin-top: 30px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.descricao-header-detalhes p {
+  color: rgb(0, 0, 0);
+  opacity: 55%;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.descricao-header-detalhes {
+  margin-top: 80px;
+  margin-left: -280px;
+  position: relative;
+  height: 0px;
+}
+
+.sabia_mais_header-detalhes {
+  background-image: linear-gradient(to right, #fa8f41, #ff6800);
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  height: 28px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 285px;
+}
+
+.preco-header-detalhes {
+  display: flex;
+  height: 0px;
+  color: rgb(0, 0, 0);
+  margin-top: -45px;
+  margin-left: 205px;
+}
+
+.simbolo {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.valor {
+  font-size: 24px;
+}
+
+.social_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+.social_list li {
+  text-align: center;
+  width: 8%;
+  margin: 2em 0;
+  background-color: #f9f9f9;
+  opacity: 200%;
+  border: 3px solid #f6f6f6;
+  font-size: 12px;
+}
+
+.social_list svg {
+  font-size: 2.5em;
+  cursor: pointer;
+  color: #616161;
+}
+
+.texto-detalhes p {
+  text-align: centar;
+  max-width: 1024px;
+  margin-left: 12em;
+}
+
+.preco-final {
+  display: flex;
+  height: 0px;
+  color: rgb(0, 0, 0);
+  margin-top: 30px;
+  margin-left: 205px;
+  font-weight: bold;
+}
+
+.habilitar {
+  background-image: linear-gradient(to right, #fa8f41, #ff6800);
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  height: 28px;
+  width: 100px;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 300px;
+}
+
+.titulo-topo {
+  display: flex;
+}
+
+.titulo-topo h4 {
+  margin-top: -0.34em;
+}
